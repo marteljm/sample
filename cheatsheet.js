@@ -72,10 +72,10 @@ atom (MS VS) - editor
 	•	npm v6.4.1 to /usr/local/bin/npm
   Make sure that /usr/local/bin is in your $PATH.
 2. terminal |
-  sudo npm install create-react-app -g
+  sudo npm install -g create-react-app
   create-react-app projname    //creates folder for project and setup
-	cd projname
-	npm start
+  cd projname
+  sudo npm start
 
 PROJECT Files
 src\package.json - dependencies, scripts
